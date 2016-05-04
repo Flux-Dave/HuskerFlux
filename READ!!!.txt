@@ -1,0 +1,3 @@
+
+Note that as of 4-May-2016, HuskerFlux works with Gill Windmaster Pro (and Windmaster) sonic anamometers manufactured before
+2006.  We are currently working on updating the code to work with later versions.
